@@ -2,7 +2,7 @@
 
 A beautiful, modern web application to track your daily habits with gamification elements, built with React and Vite. All data is stored locally in your browser using localStorage, ensuring privacy and offline functionality.
 
-🌐 **[Live Demo](https://theunknown550.github.io/Habit-Tracker-Web-App/)** - Try it now!
+🌐 **[Live Demo](https://Alihassan926.github.io/Habit-Tracker-Website/)** - Try it now!
 
 ![Habit Tracker Demo](./demo.gif) <!-- Placeholder for demo GIF -->
 
@@ -49,8 +49,8 @@ A beautiful, modern web application to track your daily habits with gamification
 Get started with the Habit Tracker in just a few minutes!
 
 ```bash
-git clone https://github.com/TheUnknown550/Habit-Tracker-Web-App.git
-cd Habit-Tracker-Web-App
+git clone https://github.com/Alihassan926/Habit-Tracker-Website.git
+cd Habit-Tracker-Website
 npm install
 npm run dev
 ```
@@ -68,7 +68,7 @@ Then open `http://localhost:5173` in your browser.
 
 This app is automatically deployed to GitHub Pages using GitHub Actions.
 
-**Live Demo**: [https://theunknown550.github.io/Habit-Tracker-Web-App/](https://theunknown550.github.io/Habit-Tracker-Web-App/)
+**Live Demo**: [https://Alihassan926.github.io/Habit-Tracker-Website/](https://Alihassan926.github.io/Habit-Tracker-Website/)
 
 ### Automatic Deployment
 
